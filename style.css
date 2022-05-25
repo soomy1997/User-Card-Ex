@@ -1,0 +1,59 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#card{
+    width: 550px;
+    height: 450px;
+    border: 3px black solid;
+    margin-left: auto;
+     margin-right: auto;
+}
+#container{
+    padding: 50px;
+    margin:auto;
+}
+#header{
+    background-color: cyan;
+    height: 150px;
+  
+
+}
+#profile-pic img{
+    width: 150px;
+    top: 80px;
+    left:350px;
+    position: absolute;
+    
+}
+#location {
+    padding-bottom: 30px;
+ }
+#profile-content{
+    position: relative;
+    padding-top: 50px;
+}
+#location ul{
+    list-style: none;
+  
+  }
+
+#location ul li{
+    display: inline;
+
+
+ 
+ }
+ #settings {
+    padding-top: 30px;
+ }
+ #settings ul{
+    list-style: none;
+ 
+ }
+ #settings ul li{
+     display: inline;
+  
+  }
+
